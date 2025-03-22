@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 **About Me**
-I am a **Senior Cloud Security Consultant and DevOps Engineer** with over **5 years of experience** specializing in cloud security, DevOps automation, and infrastructure management. I excel at designing secure cloud solutions, optimizing deployment efficiency, and implementing DevSecOps best practices for multi-cloud environments.
+I am a **Senior Cloud Security Consultant and DevOps Engineer** with over **6 years of experience** specializing in cloud security, DevOps automation, and infrastructure management. I excel at designing secure cloud solutions, optimizing deployment efficiency, and implementing DevSecOps best practices for multi-cloud environments.
 
 🎯 **Key Highlights:**
 - ✅ Expertise in managing and securing cloud infrastructures on **Azure, AWS, and GCP**.
